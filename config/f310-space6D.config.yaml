@@ -1,6 +1,6 @@
 axis_linear:
-  x: 1
-  y: 0
+  x: 4
+  y: 3
   z: 7
 scale_linear:
   x: 0.4
@@ -8,8 +8,8 @@ scale_linear:
   z: 0.4
 axis_angular:
   yaw: 6
-  pitch: 3
-  roll: 4
+  pitch: 0
+  roll: 1
 scale_angular:
   yaw: 0.5
   pitch: 0.5
